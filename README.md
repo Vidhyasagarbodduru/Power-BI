@@ -11,7 +11,7 @@
 
  ### Tasks
 
- #### 1).Data Importing 
+ #### 1). Data Importing 
 
  Loading data form CSV or Excel files into Power BI.
  #### 2). Data Modeling 
@@ -23,3 +23,5 @@
 
   #### 4). Data Visualization
   Designing the reports and Dashboards.
+
+  
